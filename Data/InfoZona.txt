@@ -1,0 +1,5 @@
+Informacion de la zona: 
+Temperatura Minima = 10 °C
+Humedad = 100 % 
+Presion = 1200 PA
+Tipo de tierra = Profesional

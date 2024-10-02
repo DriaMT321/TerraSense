@@ -1,0 +1,4 @@
+Informacion de usuario: 
+Nombre = a
+Correo = a
+Contraseña = a 
